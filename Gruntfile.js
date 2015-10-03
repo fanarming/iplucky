@@ -6,7 +6,6 @@ module.exports = function(grunt) {
     var path = require('path');
     var fs = require('fs');
     var pkg = require('./package');
-    var profile = require('./profile');
     var proj_namespace = path.join(pkg.description, pkg.name, pkg.version, '\/');
     var ASSETS_URL = 'http://assets.dwstatic.com/'+ pkg.description + '/' + pkg.name + '/' + pkg.version + '/';
     var ipAddress = require('network-address')();

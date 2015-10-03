@@ -1,0 +1,140 @@
+{
+    "c-订阅管理 - 播客订阅": {
+        "path_to_layout": "src/c-订阅管理 - 播客订阅.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "c-订阅管理 - 游戏订阅": {
+        "path_to_layout": "src/c-订阅管理 - 游戏订阅.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "g-index": {
+        "path_to_layout": "src/g-index.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "g-index（已登录 已订阅）": {
+        "path_to_layout": "src/g-index（已登录 已订阅）.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "g-index（已登录 未订阅）": {
+        "path_to_layout": "src/g-index（已登录 未订阅）.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "g-个性页": {
+        "path_to_layout": "src/g-个性页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "g-通用头部": {
+        "path_to_layout": "src/g-通用头部.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "m - 列表页": {
+        "path_to_layout": "src/m - 列表页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "m - 播放页": {
+        "path_to_layout": "src/m - 播放页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "m - 首页": {
+        "path_to_layout": "src/m - 首页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-播客列表": {
+        "path_to_layout": "src/p-播客列表.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-播客申请页": {
+        "path_to_layout": "src/p-播客申请页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-旧频道页通用头部": {
+        "path_to_layout": "src/p-旧频道页通用头部.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-旧频道页通用底部": {
+        "path_to_layout": "src/p-旧频道页通用底部.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-游戏列表": {
+        "path_to_layout": "src/p-游戏列表.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-频道页-原创游戏": {
+        "path_to_layout": "src/p-频道页-原创游戏.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-频道页通用-列表页": {
+        "path_to_layout": "src/p-频道页通用-列表页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "p-频道页通用模板": {
+        "path_to_layout": "src/p-频道页通用模板.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "t-上传图片测试": {
+        "path_to_layout": "src/t-上传图片测试.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "个人中心-我的栏目": {
+        "path_to_layout": "src/个人中心-我的栏目.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "个人主页-栏目页": {
+        "path_to_layout": "src/个人主页-栏目页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "个人主页-视频页": {
+        "path_to_layout": "src/个人主页-视频页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    },
+    "个人主页": {
+        "path_to_layout": "src/个人主页.html",
+        "path_to_data": [
+            "src/data/global.json"
+        ]
+    }
+}
